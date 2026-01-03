@@ -16,3 +16,7 @@
 build/
 bin/
 
+auth_keys
+auth_keys.pub
+
+161225_notes.md
